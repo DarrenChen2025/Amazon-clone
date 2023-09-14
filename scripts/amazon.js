@@ -1,6 +1,7 @@
 //Loads the data from products.js and renders it 
 
 import {cart} from '../data/cart.js';
+import {products} from '../data/products.js';
 
 let productsHTML = '';
 
